@@ -1,4 +1,4 @@
-# Ejemplo de SoundPool - El Regalo de Bart
+# Study_Jam_Tarea2
 
 En este repositorio encontraran un ejemplo basico de una calculadora que realiza las operaciones básicas como La suma, resta, multiplicación, seno, coseno y tangente
 Todo dentro del contenido del **Study Jam Android Development for Beginners** por el [GDG Android Bolivia.](http://www.gdg.androidbolivia.com/)
@@ -27,8 +27,8 @@ Dentro de Android Studio:
 
 <div align="center">
     <center>
-        <img src="/img/captura.png" width="300">
+        <img src="/img/Screenshot_2017-10-16-23-00-07.png" width="300">
     </center>
 </div>
 <br><br>
-<a href="http://www.miramicodigo.com" target="_blank">@Gusn8</a>
+<a href="http://www.miramicodigo.com" target="_blank">@druizs</a>
